@@ -1,0 +1,2 @@
+[console_scripts]
+clipboard-history-tool = clipboard_history_tool:main

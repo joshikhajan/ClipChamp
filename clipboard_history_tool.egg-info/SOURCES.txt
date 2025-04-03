@@ -1,0 +1,13 @@
+LICENSE
+README.md
+clipboard_history_tool.py
+setup.py
+./clipboard_history_tool.py
+./manual_test.py
+./test_clipboard_tool.py
+clipboard_history_tool.egg-info/PKG-INFO
+clipboard_history_tool.egg-info/SOURCES.txt
+clipboard_history_tool.egg-info/dependency_links.txt
+clipboard_history_tool.egg-info/entry_points.txt
+clipboard_history_tool.egg-info/requires.txt
+clipboard_history_tool.egg-info/top_level.txt

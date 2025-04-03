@@ -1,0 +1,2 @@
+clipboard_history_tool
+clipboard_history_tool_package
